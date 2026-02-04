@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "COVID-CNN-ViT-Ensemble-CXR"
+type: software
+authors:
+  - family-names: Gaber
+    given-names: Ahmed
+doi: 10.5281/zenodo.18481306
+url: https://github.com/AhmedGaber1985/COVID-CNN-ViT-Ensemble-CXR
+repository-code: https://github.com/AhmedGaber1985/COVID-CNN-ViT-Ensemble-CXR
+abstract: >
+  Hybrid CNN–Vision Transformer ensemble for COVID-19 chest X-ray (CXR)
+  classification, combining ResNet-18 and ViT-Tiny models with probability
+  averaging to improve diagnostic performance.
+keywords:
+  - COVID-19
+  - Chest X-ray
+  - Deep Learning
+  - CNN
+  - Vision Transformer
+  - Ensemble Learning
+license: MIT
